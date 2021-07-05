@@ -1,5 +1,4 @@
-# DataScience20COVID19
-DS20COV19
+# DataScience20COVID19DS20COV19
 Covid19 Global Forecasting
 
 Data Science Project No. 8
@@ -59,3 +58,6 @@ Please note that we attach particular attention to the self-contained and indepe
 
 Note: If a project fails, the participants cannot pass the course as a whole.
 Contact person: Elena Banowitz (elena.banowitz@uni-saarland.de)
+
+DataSet: Time series summary tables, including confirmed, deaths and recovered
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
