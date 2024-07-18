@@ -1,4 +1,4 @@
-This Data Science project has been made public for trustlens assessment task.
+This Data Science semester project has been made public for trustlens assessment task.
 As you have asked, I have mentioned your names here.
 PeterStolz, Philipp dewald, Tim Walita
 
